@@ -1,5 +1,5 @@
 FROM ubuntu:16.10
-MAINTAINER daniel
+MAINTAINER Daniel
 # Update Software repo
 RUN apt-get update
 
